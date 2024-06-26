@@ -1,0 +1,37 @@
+_repo: Batiks-and-how-to-make-them_73820
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Harting, G. W.
+    gutenberg_agent_id: '57233'
+    url: http://www.gutenberg.org/2009/agents/57233
+creator:
+  author:
+    agent_name: Mijer, Pieter
+    birthdate: 1881
+    deathdate: 1963
+    gutenberg_agent_id: '46644'
+    url: http://www.gutenberg.org/2009/agents/46644
+    wikipedia: https://en.wikipedia.org/wiki/Pieter_Mijer
+description: ''
+gutenberg_issued: '2024-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73820'
+language: en
+pgterms:marc904: https://archive.org/details/batikshowtomaket00mije/page/n11/mode/2up
+pgterms:marc905: 20210314205023mijer
+pgterms:marc906: '1919'
+pgterms:marc907: EN
+production_note: Charlene Taylor, A Marshall and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bDodd, Mead and Company, Inc., $c1919, pubdate 1920,
+  pubdate 1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Batiks and how to make them
+url: http://www.gutenberg.org/ebooks/73820
